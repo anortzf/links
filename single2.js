@@ -1,5 +1,3 @@
-// 20210821172611
-// https://cdn.jsdelivr.net/gh/anortzf/links/placelholder8.js
 
 [
 
